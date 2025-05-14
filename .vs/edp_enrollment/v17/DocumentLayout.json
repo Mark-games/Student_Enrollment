@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|c:\\users\\jamez\\documents\\3rd yr 2nd sem\\edp\\activities\\edp_enrollment\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\userspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:userspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\userspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:userspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\enrollees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:enrollees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\enrollees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:enrollees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\archived_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:archived_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\archived_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:archived_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817114C-15B8-44F6-9002-3CF0F7A0EB24}|edp_enrollment.csproj|solutionrelative:summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentReport.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\StudentReport.cs",
+              "RelativeDocumentMoniker": "StudentReport.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\StudentReport.cs",
+              "RelativeToolTip": "StudentReport.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:30:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\StudentReport.cs",
+              "RelativeDocumentMoniker": "StudentReport.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\StudentReport.cs [Design]",
+              "RelativeToolTip": "StudentReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:26:20.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersPage.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\UsersPage.cs",
+              "RelativeDocumentMoniker": "UsersPage.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\UsersPage.cs",
+              "RelativeToolTip": "UsersPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvxYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:34:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\UsersPage.cs",
+              "RelativeDocumentMoniker": "UsersPage.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\UsersPage.cs [Design]",
+              "RelativeToolTip": "UsersPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:16:50.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBConnection.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\DBConnection.cs",
+              "RelativeToolTip": "DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:01:14.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Archived_Logs.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Archived_Logs.cs",
+              "RelativeDocumentMoniker": "Archived_Logs.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Archived_Logs.cs",
+              "RelativeToolTip": "Archived_Logs.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:40:56.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Archived_Logs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Archived_Logs.cs",
+              "RelativeDocumentMoniker": "Archived_Logs.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Archived_Logs.cs [Design]",
+              "RelativeToolTip": "Archived_Logs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:29:47.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Logs.cs",
+              "RelativeDocumentMoniker": "Logs.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Logs.cs",
+              "RelativeToolTip": "Logs.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:28:32.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Students.cs",
+              "RelativeToolTip": "Students.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:00:57.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Grades.cs",
+              "RelativeDocumentMoniker": "Grades.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Grades.cs",
+              "RelativeToolTip": "Grades.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:44:38.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Logs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Logs.cs",
+              "RelativeDocumentMoniker": "Logs.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Logs.cs [Design]",
+              "RelativeToolTip": "Logs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:14:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Students.cs [Design]",
+              "RelativeToolTip": "Students.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:13:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Departments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Departments.cs",
+              "RelativeDocumentMoniker": "Departments.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Departments.cs [Design]",
+              "RelativeToolTip": "Departments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:39:13.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:26:47.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwE0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:36:41.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Grades.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Grades.cs",
+              "RelativeDocumentMoniker": "Grades.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Grades.cs [Design]",
+              "RelativeToolTip": "Grades.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:13:14.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Departments.cs",
+              "RelativeDocumentMoniker": "Departments.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Departments.cs",
+              "RelativeToolTip": "Departments.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:05:33.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Instructors.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Instructors.cs",
+              "RelativeDocumentMoniker": "Instructors.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Instructors.cs",
+              "RelativeToolTip": "Instructors.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:36:14.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Instructors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Instructors.cs",
+              "RelativeDocumentMoniker": "Instructors.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Instructors.cs [Design]",
+              "RelativeToolTip": "Instructors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:11:05.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Classes.cs",
+              "RelativeToolTip": "Classes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:02:38.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Classes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Classes.cs [Design]",
+              "RelativeToolTip": "Classes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:47:48.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enrollees.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Enrollees.cs",
+              "RelativeDocumentMoniker": "Enrollees.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Enrollees.cs",
+              "RelativeToolTip": "Enrollees.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAgwGIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:06:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enrollees.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Enrollees.cs",
+              "RelativeDocumentMoniker": "Enrollees.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Enrollees.cs [Design]",
+              "RelativeToolTip": "Enrollees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:57:31.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Courses.cs",
+              "RelativeDocumentMoniker": "Courses.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Courses.cs",
+              "RelativeToolTip": "Courses.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:05:47.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Courses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Courses.cs",
+              "RelativeDocumentMoniker": "Courses.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Courses.cs [Design]",
+              "RelativeToolTip": "Courses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:39:32.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Summary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Summary.cs",
+              "RelativeDocumentMoniker": "Summary.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Summary.cs [Design]",
+              "RelativeToolTip": "Summary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:22:28.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Summary.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Summary.cs",
+              "RelativeDocumentMoniker": "Summary.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\Summary.cs",
+              "RelativeToolTip": "Summary.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:43:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\login_form.cs",
+              "RelativeDocumentMoniker": "login_form.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\login_form.cs [Design]",
+              "RelativeToolTip": "login_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:01:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login_form.cs",
+              "DocumentMoniker": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\login_form.cs",
+              "RelativeDocumentMoniker": "login_form.cs",
+              "ToolTip": "C:\\Users\\Jamez\\Documents\\3rd Yr 2nd Sem\\EDP\\Activities\\edp_enrollment\\login_form.cs",
+              "RelativeToolTip": "login_form.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:19:35.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
